@@ -1,0 +1,40 @@
+div {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+background-color: bisque;
+}
+
+img {
+max-width:3000px;
+max-height:600px;
+width: auto;
+height: auto;
+
+}
+
+h1 {
+font-size: 20px;
+text-align: center;
+}
+
+h2 {
+font-size: 20px;
+color: #88100f;
+font-weight: normal;
+text-align: center;
+}
+
+h3 {
+font-size: 18px;
+text-decoration: underline;
+color: #88100f;
+font-family: Verdana;
+text-align: left;
+}
+
+p {
+font-size: 16px;
+line-height: 28px;
+font-family: Verdana;
+text-align: left;
+}
