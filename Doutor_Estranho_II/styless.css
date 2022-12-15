@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .secao-topo {
+    background-image: url("capa.jpg");
+    background-attachment: fixed;
+    min-height: 600px;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1, h2 {
+    margin: 0 auto;
+    color: #fff;
+    padding: 10px;
+    width: 350px;
+    font-family: Tahoma;
+  }
+  
+  h1 {
+    background-color: #000;
+  }
+  
+  h2 {
+    background-color: red;
+  }
+
+  h3 {
+    color:rgb(32, 32, 32);
+    font-size: 22px;
+    font-family: Tahoma;
+  }
+  
+  .secao-conteudo {
+    width: 800px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    background-color: rgb(243, 188, 188);
+  }
+  
+  .secao-conteudo img {
+    width: 200px;
+    height: 250px;
+  
+  }
+  
+  .secao-divulgacao {
+    background-image: url("img1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+  }
+  
+  p {
+    line-height: 26px;
+    color:rgb(32, 32, 32);
+    font-family: Tahoma;
+    text-align: justify;
+  }
+
+  a {
+    text-decoration: none;
+    color:#fff;
+    }
+
+  .buttom{
+    background-color: rgb(243, 41, 41);
+    color: #fff;
+    padding: 10px 25px;
+    font-weight: bold;
+    font-family: Tahoma;
+     }
+
+  .red{
+    color: rgb(107, 12, 12);
+      }
+
+  .img_elenco {
+    border-radius: 20px;
+    border-style: solid;  
+    border-color: rgb(243, 41, 41);
+    margin-top: 30px;
+       }
